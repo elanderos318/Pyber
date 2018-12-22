@@ -1,7 +1,7 @@
 # Pyber
 Unit 5 | Assignment - The Power of Plots
 
-**Observable Trends** 	
+**Observable Trends**
 
 	As we expect, the number of rides and drivers increase as we go from Rural to Suburban and finally Urban cities (Pyber Ride Sharing Data (2016)). Our graph displays a loose negative correlation between Average Fare ($) and Total Number of Rides (Per City)), although the rural cities by themselves do not seem to show any kind of meaningful correlation. 
 	
